@@ -60,7 +60,7 @@
                 
                 <!-- Additional header buttons / Auth and direct link to booking-->
                 <div class="control-panel">
-                    <div class="auth auth--home">
+                    <!-- <div class="auth auth--home">
                       <div class="auth__show">
                         <span class="auth__image">
                           <img alt="" src="../images/client-photo/auth.png">
@@ -74,6 +74,11 @@
                             <li><a href="../login.html" class="auth__function-item">đăng ký</a></li>
                         </ul>
 
+                    </div> -->
+                    <div class="btn btn-md btn--warning btn--book btn-control--home login-window">
+                        <span>
+                       <a href="../login.html" class="auth__function-item login-window">Đăng Nhập</a>
+                        </span>
                     </div>
                     <a href="#" class="btn btn-md btn--warning btn--book btn-control--home login-window">Đặt Vé</a>
                 </div>
