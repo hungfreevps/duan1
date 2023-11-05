@@ -2,7 +2,7 @@
     <div class="wrapper">
         <!-- Banner -->
         <div class="banner-top">
-            <img alt='top banner' src="images/bannerr.jpg">
+            <img alt='top banner' src="../images/bannerr.jpg">
         </div>
 
         <!-- Header section -->
@@ -10,7 +10,7 @@
             <div class="container">
                 <!-- Logo link-->
                 <a href='index.html' class="logo">
-                    <img alt='logo' src="images/logo.png">
+                    <img alt='logo' src="../images/logo.png">
                 </a>
                 
                 <!-- Main website navigation-->
@@ -63,7 +63,7 @@
                     <div class="auth auth--home">
                       <div class="auth__show">
                         <span class="auth__image">
-                          <img alt="" src="images/client-photo/auth.png">
+                          <img alt="" src="../images/client-photo/auth.png">
                         </span>
                       </div>
                       <a href="#" class="btn btn--sign btn--singin">
@@ -71,7 +71,7 @@
                       </a>
                         <ul class="auth__function">
                             <li><a href="#" class="auth__function-item login-window">đăng nhập</a></li>
-                            <li><a href="login.html" class="auth__function-item">đăng ký</a></li>
+                            <li><a href="../login.html" class="auth__function-item">đăng ký</a></li>
                         </ul>
 
                     </div>
@@ -87,7 +87,7 @@
                         <ul>
 
                             <li data-transition="fade" data-slotamount="7" class="slide" data-slide='Rush.'>
-                                <img alt='' src="images/slides/first-slide.jpg">
+                                <img alt='' src="../images/slides/first-slide.jpg">
                                 <div class="caption slide__name margin-slider" 
                                      data-x="right" 
                                      data-y="80" 
@@ -210,10 +210,10 @@
 Create trip film.'>
                                 <img alt='' src="images/bg-video.jpg">
                                  <div class="caption slide__video" data-x="0" data-y="0" data-autoplay='true'>
-                                   <video class="media-element"  autoplay="autoplay" preload='none' loop="loop" muted="" src="video/TravelIs.mp4" >
-                                        <source type="video/webm" src="video/TravelIs.html">
-                                        <source type="video/mp4" src="video/TravelIs.mp4">
-                                        <source type="video/ogg" src="video/TravelIs-2.html">
+                                   <video class="media-element"  autoplay="autoplay" preload='none' loop="loop" muted="" src="../video/TravelIs.mp4" >
+                                        <source type="video/webm" src="../video/TravelIs.html">
+                                        <source type="video/mp4" src="../video/TravelIs.mp4">
+                                        <source type="video/ogg" src="../video/TravelIs-2.html">
                                     </video>
                                   </div>
 
@@ -318,7 +318,7 @@ Create trip film.'>
 
                             <li data-transition="fade" data-slotamount="7" class="slide" data-slide='Stop wishing. 
 Start doing.'>
-                                <img alt='' src="images/slides/next-slide.jpg">
+                                <img alt='' src="../images/slides/next-slide.jpg">
                                  <div class="caption slide__name slide__name--smaller slide__name--specific customin customout" 
                                      data-x="left" 
                                      data-y="160" 
@@ -377,32 +377,32 @@ Start doing.'>
                  <div class="col-sm-10 col-sm-offset-1 movie-best__rating">Today Best choice</div>
                  <div class="col-sm-12 change--col">
                      <div class="movie-beta__item ">
-                        <img alt='' src="images/movie/movie-sample1.jpg">
+                        <img alt='' src="../images/movie/movie-sample1.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item second--item">
-                         <img alt='' src="images/movie/movie-sample2.jpg">
+                         <img alt='' src="../images/movie/movie-sample2.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item third--item">
-                         <img alt='' src="images/movie/movie-sample3.jpg">
+                         <img alt='' src="../images/movie/movie-sample3.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item hidden-xs">
-                         <img alt='' src="images/movie/movie-sample4.jpg">
+                         <img alt='' src="../images/movie/movie-sample4.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item hidden-xs hidden-sm">
-                         <img alt='' src="images/movie/movie-sample5.jpg">
+                         <img alt='' src="../images/movie/movie-sample5.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item hidden-xs hidden-sm">
-                         <img alt='' src="images/movie/movie-sample6.jpg">
+                         <img alt='' src="../images/movie/movie-sample6.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
@@ -531,7 +531,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--dark movie--test--left">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                        <img alt='' src="images/movie/movie-time8.jpg">
+                                        <img alt='' src="../images/movie/movie-time8.jpg">
                                     </a>
                                 </div>
 
@@ -550,7 +550,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--light movie--test--left">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="images/movie/movie-time1.jpg">
+                                    <img alt='' src="../images/movie/movie-time1.jpg">
                                     </a>
                                 </div>
 
@@ -569,7 +569,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--light movie--test--right">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="images/movie/movie-time9.jpg">
+                                    <img alt='' src="../images/movie/movie-time9.jpg">
                                     </a>
                                 </div>
 
@@ -588,7 +588,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--dark movie--test--right">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="images/movie/movie-time10.jpg">
+                                    <img alt='' src="../images/movie/movie-time10.jpg">
                                     </a>
                                 </div>
 
@@ -607,7 +607,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--dark movie--test--left">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="images/movie/movie-time11.jpg">
+                                    <img alt='' src="../images/movie/movie-time11.jpg">
                                     </a>
                                 </div>
 
@@ -626,7 +626,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--light movie--test--left">
                                 <div class="movie__images">
                                     <a href="movie-page-full.html" class="movie-beta__link">
-                                    <img alt='' src="images/movie/movie-time12.jpg">
+                                    <img alt='' src="../images/movie/movie-time12.jpg">
                                     </a>
                                 </div>
 
@@ -645,7 +645,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--light movie--test--right">
                                 <div class="movie__images">
                                     <a href="movie-page-full.html" class="movie-beta__link">
-                                    <img alt='' src="images/movie/movie-time13.jpg">
+                                    <img alt='' src="../images/movie/movie-time13.jpg">
                                     </a>
                                 </div>
 
@@ -664,7 +664,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--dark movie--test--right">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="images/movie/movie-time14.jpg">
+                                    <img alt='' src="../images/movie/movie-time14.jpg">
                                     </a>
                                 </div>
 
