@@ -1,6 +1,6 @@
 <?php
-include "../view/header.php";
-include "../model/pdo.php";
+include "view/header.php";
+include "model/pdo.php";
 
 
 if((isset($_GET['act'])) && ($_GET['act']!="")){
