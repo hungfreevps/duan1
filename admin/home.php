@@ -1,24 +1,16 @@
 <main>
     <div class="container">
         <h2>Trang Chu</h2>
-        <table>
-            <div>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+        <div class="table-left" style="display: flex; justify-content: flex-start;">
+            <h3 class="text-center">Danh Sach Phim</h3>
+            <div class="table">
             </div>
+        </div>
 
-            <div>
-                <tr></tr>
-                <tr></tr>
-                <tr></tr>
-                <tr></tr>
-                <tr></tr>
-                <tr></tr>
+        <div class="table-right" style="display: flex; justify-content: flex-end;">
+        <h3 class="text-center">Binh luan</h3>
+            <div class="table">
             </div>
-        </table>
+        </div>
     </div>
 </main>
