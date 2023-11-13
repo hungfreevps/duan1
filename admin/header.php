@@ -13,6 +13,7 @@
         <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,700' rel='stylesheet' type='text/css'>
         <!-- Open Sans -->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:800italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="../css/css-admin.css">
     
     <!-- Stylesheets -->
             <!-- Mobile menu -->
